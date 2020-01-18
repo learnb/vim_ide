@@ -3,9 +3,9 @@ ViM as an IDE
 
 ## Features
 
-* File explorer via NERDTree plugin
+* File explorer via [NERDTree plugin](https://github.com/scrooloose/nerdtree)
 
-* Quick class/function navigation via Tagbar plugin
+* Quick class/function navigation via [Tagbar plugin](https://github.com/majutsushi)
 
 * Interactive shell window
 
