@@ -1,4 +1,4 @@
-# ViM as an IDE
+# Vim as an IDE
 
 ![screenshot](img/ss.png)
 
@@ -23,7 +23,7 @@ This window opens on the left side of the text editor.
 
 Press F5 to toggle.
 
-## Quick Nav
+## Quick Navigation
 
 This window opens on the right side of the text editor.
 
@@ -36,3 +36,17 @@ This window opens below the text editor.
 Press F6 to open a new window.
 
 Exit the shell as normal (`$ exit`, etc.)
+
+## TODO
+
+* Add plugin for linting
+
+    * [syntastic](https://github.com/vim-syntastic/syntastic)
+
+* Add pluging for refactoring
+
+    * [vim-refactor](https://github.com/LucHermitte/vim-refactor)
+
+* Add plugin for code completion
+
+    * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
