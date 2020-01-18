@@ -5,7 +5,7 @@ ViM as an IDE
 
 * File explorer via [NERDTree plugin](https://github.com/scrooloose/nerdtree)
 
-* Quick class/function navigation via [Tagbar plugin](https://github.com/majutsushi)
+* Quick class/function navigation via [Tagbar plugin](https://github.com/majutsushi/tagbar)
 
 * Interactive shell window
 
