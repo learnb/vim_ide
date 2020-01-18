@@ -1,5 +1,6 @@
-# vim_ide
-ViM as an IDE
+# ViM as an IDE
+
+![screenshot](img/ss.png)
 
 ## Features
 
@@ -15,18 +16,23 @@ ViM as an IDE
 cp -r vim ~/.vim
 cp vimrc ~/.vimrc
 ```
+
 ## File Explorer
 
 This window opens on the left side of the text editor.
-Press <F5> to toggle.
+
+Press F5 to toggle.
 
 ## Quick Nav
 
 This window opens on the right side of the text editor.
-Press <F8> to toggle.
+
+Press F8 to toggle.
 
 ## Interactive Shell
 
 This window opens below the text editor.
-Press <F6> to open a new window.
+
+Press F6 to open a new window.
+
 Exit the shell as normal (`$ exit`, etc.)
