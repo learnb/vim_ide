@@ -1,11 +1,11 @@
 
 """""""""""""""""""""""
-"    ViM as an IDE    "
+"    Vim as an IDE    "
 " author: Bryan Learn "
 """""""""""""""""""""""
 
 """""""""""""""""""
-" ViM Configuration
+" Vim Configuration
 """""""""""""""""""
 " Basic Settings
     set nocompatible

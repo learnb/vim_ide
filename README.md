@@ -2,6 +2,8 @@
 
 ![screenshot](img/ss.png)
 
+Configurations for Vim 8 to add common IDE features.
+
 ## Features
 
 * File explorer via [NERDTree plugin](https://github.com/scrooloose/nerdtree)
