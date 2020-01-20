@@ -12,8 +12,11 @@
 
 ## Installation
 
+**Note**: This will overwrite your vim config files. Back them up first if you 
+don't want to loose them.
+
 ```
-cp -r vim ~/.vim
+cp -r vim/* ~/.vim
 cp vimrc ~/.vimrc
 ```
 
