@@ -14,6 +14,13 @@ Configurations for Vim 8 to add common IDE features.
 
 ## Installation
 
+First update the submodules (vim plugins)
+
+```
+git submodule init
+git submodule update
+```
+
 **Note**: This will overwrite your vim config files. Back them up first if you 
 don't want to loose them.
 
