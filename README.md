@@ -14,10 +14,19 @@ Configurations for Vim 8 to add common IDE features.
 
 ## Installation
 
+Dependencies:
+
+* Vim 8.0+
+
+* ctags
+
 First update the submodules (vim plugins)
 
 ```
 git submodule init
+```
+
+```
 git submodule update
 ```
 
@@ -26,22 +35,27 @@ don't want to loose them.
 
 ```
 cp -r vim/* ~/.vim
+```
+
+```
 cp vimrc ~/.vimrc
 ```
 
-## File Explorer
+## Usage
+
+### File Explorer
 
 This window opens on the left side of the text editor.
 
 Press F5 to toggle.
 
-## Quick Navigation
+### Quick Navigation
 
 This window opens on the right side of the text editor.
 
 Press F8 to toggle.
 
-## Interactive Shell
+### Interactive Shell
 
 This window opens below the text editor.
 
